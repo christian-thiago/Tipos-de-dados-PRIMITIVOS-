@@ -16,8 +16,7 @@ if (MaiorIdade >= 18){
 
 if (MaiorIdade >= 18){
   console.log("VOCÊ É MAIOR DE IDADE !")
-}
 
-if (MenorIdade < 18){
-  console.log("VOCÊ É MENOR DE IDADE !")
+} else if (MenorIdade < 18); {
+   console.log("VOCÊ É MENOR DE IDADE !")
 }
